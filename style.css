@@ -222,7 +222,7 @@ footer {
     .main-section .wrapper {
         flex-direction: column-reverse;
         align-items: flex-start;
-        gap: 60px; 
+        gap: 60px 0; 
         /* 📍 Свойства для расположения элементов и отступа между ними */
     }
 
